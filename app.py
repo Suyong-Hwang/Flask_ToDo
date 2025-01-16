@@ -9,7 +9,7 @@ db_config = {
     'host': '10.0.66.5',
     'user': 'suyong',
     'password': '1234',
-    'database': 'todo_db'
+    'database': 'todo_db2'
 }
 
 # 데이터베이스 연결 함수
